@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 <h1 align="center">Hi 👋, I'm Harshit Singh Parihar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" width="400" height="360" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" alt="coding image" />
+<img align="right" width="400" height="356" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" alt="coding image" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitparihar05&label=Profile%20views&color=0e75b6&style=flat" alt="harshitparihar05" /> </p>
 
 - 📫 How to reach me **pariharharshit05@gmail.com**
