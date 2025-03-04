@@ -4,7 +4,7 @@
 <img align="right" width="400" height="356" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" alt="coding image" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitparihar05&label=Profile%20views&color=0e75b6&style=flat" alt="harshitparihar05" /> </p>
 
-- 📫 How to reach me **pariharharshit05@gmail.com**
+- 📫 How to reach me **theharshitparihar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
