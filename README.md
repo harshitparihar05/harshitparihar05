@@ -29,7 +29,7 @@
 </div>
 
 ---
-**Focus areas**
+# Focus areas
 - Frontend: HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, React.js  
 - Backend: Node.js, Express.js, REST APIs, JWT auth  
 - Databases: MongoDB, MySQL  
