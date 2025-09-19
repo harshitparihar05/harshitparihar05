@@ -5,6 +5,7 @@
 </div>
 <br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=harshitparihar05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></div>
+<br>
 <!-- Contact & quick links (email kept in lowercase) -->
 <a href="mailto:theharshitparihar@gmail.com">
   <img src="https://img.shields.io/badge/email-theharshitparihar%40gmail.com-0A66C2?style=for-the-badge&logo=gmail" alt="email" />
@@ -26,9 +27,6 @@
 </a>
 
 <br/><br/>
-
-<!-- Hero image (keeps README lively) -->
-<img src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" alt="coding" width="320" />
 
 </div>
 
