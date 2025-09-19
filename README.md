@@ -109,9 +109,3 @@ I included a small HTML/CSS/JS snippet at the end of this file that you can copy
     </td>
   </tr>
 </table>
-
----
-
-# 📫 Contact
-- email: theharshitparihar@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/harshitparihar
