@@ -33,10 +33,6 @@
 </div>
 
 ---
-
-# About
-I’m a pragmatic Full-Stack Web Developer and Technical Trainer with hands-on experience building production web apps using the **MERN stack**, WordPress sites, and developer tooling. I build fast, accessible, and SEO-friendly interfaces and produce educational content for learners preparing for technical roles.
-
 **Focus areas**
 - Frontend: React.js, HTML5, CSS3, Tailwind/Bootstrap  
 - Backend: Node.js, Express, REST APIs, JWT auth  
@@ -121,45 +117,3 @@ I included a small HTML/CSS/JS snippet at the end of this file that you can copy
 # 📫 Contact
 - email: theharshitparihar@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/harshitparihar
-
----
-
-> _Tip:_ Pin the repos in your GitHub profile (choose 4–6) so recruiters see your best work first.
-
----
-
-## For your portfolio site (HTML + CSS + JS — **not** for README)
-
-Copy this into any web page to show **animated** skill bars — works on your portfolio or website:
-
-```html
-<!-- Animated skill bars (for portfolio site) -->
-<div class="skills">
-  <div class="skill">
-    <div class="skill-name">React</div>
-    <div class="skill-bar"><div class="skill-fill" data-width="90%"></div></div>
-  </div>
-  <div class="skill">
-    <div class="skill-name">Node.js</div>
-    <div class="skill-bar"><div class="skill-fill" data-width="80%"></div></div>
-  </div>
-  <!-- add more skills -->
-</div>
-
-<style>
-.skills{max-width:720px;margin:0 auto;font-family:Arial,Helvetica,sans-serif}
-.skill{margin:12px 0}
-.skill-name{font-weight:600;margin-bottom:6px}
-.skill-bar{background:#eee;border-radius:8px;padding:3px}
-.skill-fill{height:18px;border-radius:6px;width:0; background:linear-gradient(90deg,#61dafb,#0ea5a4);transition:width 1.6s ease}
-</style>
-
-<script>
-document.addEventListener('DOMContentLoaded',()=> {
-  document.querySelectorAll('.skill-fill').forEach(el=>{
-    const w = el.getAttribute('data-width')||'0%';
-    // small delay for nicer animation
-    setTimeout(()=> el.style.width = w, 200);
-  });
-});
-</script>
