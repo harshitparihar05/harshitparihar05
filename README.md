@@ -10,7 +10,7 @@
   <a href="mailto:theharshitparihar@gmail.com"><img src="https://img.shields.io/badge/Email-theharshitparihar%40gmail.com-blue?style=flat-square" alt="email" /></a>
   <a href="https://github.com/harshitparihar05"><img src="https://img.shields.io/badge/GitHub-harshitparihar05-181717?style=flat-square&logo=github" alt="github" /></a>
   <a href="https://www.linkedin.com/in/harshitparihar05/"><img src="https://img.shields.io/badge/LinkedIn-Harshit%20Singh%20Parihar-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-  <a href="https://youtube.com/Examcall"><img src="https://img.shields.io/badge/YouTube-ExamCall-red?style=flat-square&logo=youtube" alt="youtube" /></a>
+<!--   <a href="https://youtube.com/Examcall"><img src="https://img.shields.io/badge/YouTube-ExamCall-red?style=flat-square&logo=youtube" alt="youtube" /></a> -->
   <a href="./Harshit_Resume_2025.pdf"><img src="https://img.shields.io/badge/Resume-Download-green?style=flat-square&logo=file" alt="resume" /></a>
 </p>
 
