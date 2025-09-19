@@ -1,12 +1,10 @@
-# Hi 👋, I'm Harshit Singh Parihar
-
 <div align="center">
-
-**Full-Stack Web Developer • MERN • React • WordPress • Technical Trainer**  
-_Based in Indore, India 🇮🇳 — Open to remote & hybrid opportunities_
-
-<br/>
-
+  <h1 align="center">Hi 👋, I'm Harshit Singh Parihar</h1>
+  <p align="center"><b>Full-Stack Web Developer | Technical Trainer | MERN Stack Specialist</b></p>
+  <p align="center">📍 Indore, India • 📧 theharshitparihar@gmail.com</p>
+</div>
+<br>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=harshitparihar05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></div>
 <!-- Contact & quick links (email kept in lowercase) -->
 <a href="mailto:theharshitparihar@gmail.com">
   <img src="https://img.shields.io/badge/email-theharshitparihar%40gmail.com-0A66C2?style=for-the-badge&logo=gmail" alt="email" />
@@ -102,7 +100,6 @@ I included a small HTML/CSS/JS snippet at the end of this file that you can copy
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://examcall.com/" target="_blank">ExamCall</a></h3>
-      <p>Educational brand — static GK, job updates and YouTube content for aspirants (I create content & site assets).</p>
       <p>
         <a href="https://examcall.com/"><img src="https://img.shields.io/badge/Live-Website-red?style=flat-square" alt="live" /></a>
         &nbsp;
@@ -122,9 +119,8 @@ I included a small HTML/CSS/JS snippet at the end of this file that you can copy
 ---
 
 # 📫 Contact
-- **email:** theharshitparihar@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/harshitparihar  
-- **Portfolio / more work:** Add your portfolio URL here (recommended)
+- email: theharshitparihar@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/harshitparihar
 
 ---
 
