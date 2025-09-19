@@ -1,17 +1,73 @@
-<div style="text-align:center;">
+<!-- Profile README for harshitparihar05 -->
 <h1 align="center">Hi 👋, I'm Harshit Singh Parihar</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" width="400" height="356" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" alt="coding image" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitparihar05&label=Profile%20views&color=0e75b6&style=flat" alt="harshitparihar05" /> </p>
-
-- 📫 How to reach me **theharshitparihar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Full-Stack Developer • MERN • React • Node.js • Web & SEO</strong><br/>
+  <small>Building web apps, creating technical content, and helping learners succeed — based in India 🇮🇳</small>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Contact & social -->
+  <a href="mailto:theharshitparihar@gmail.com"><img src="https://img.shields.io/badge/Email-theharshitparihar%40gmail.com-blue?style=flat-square" alt="email" /></a>
+  <a href="https://github.com/harshitparihar05"><img src="https://img.shields.io/badge/GitHub-harshitparihar05-181717?style=flat-square&logo=github" alt="github" /></a>
+  <a href="https://www.linkedin.com/in/harshitparihar05/"><img src="https://img.shields.io/badge/LinkedIn-Harshit%20Singh%20Parihar-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://youtube.com/Examcall"><img src="https://img.shields.io/badge/YouTube-ExamCall-red?style=flat-square&logo=youtube" alt="youtube" /></a>
+  <a href="./Harshit_Resume_2025.pdf"><img src="https://img.shields.io/badge/Resume-Download-green?style=flat-square&logo=file" alt="resume" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitparihar05&show_icons=true&locale=en&layout=compact" alt="harshitparihar05" /></p>
-</div>
+---
+
+## 🔭 About Me
+I’m **Harshit Singh Parihar**, a Full-Stack Web Developer (React / MERN) with experience building production web apps and WordPress sites. I also create educational content (ExamCall) and specialise in SEO & YouTube growth. I enjoy shipping clean, maintainable code and making projects that people can use and learn from.
+
+**Key strengths:**
+- Frontend: React, HTML5, CSS3, Tailwind/Bootstrap
+- Backend: Node.js, Express, REST APIs, MongoDB/MySQL
+- Tools: Git, Docker, AWS (basic), Netlify/Vercel, GitHub Actions
+- Other: SEO, YouTube content strategy, UI/UX basics
+
+---
+
+## 🛠️ Tech & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28" height="28" alt="HTML5" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="28" height="28" alt="CSS3" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JS" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28" height="28" alt="React" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" alt="MySQL" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28" alt="Java" />&nbsp;
+</p>
+
+---
+
+## ⭐ Featured Projects
+> Click the repo name to open it (replace placeholders below with your actual repos & demo links).
+
+- **[ExamCall — Static GK & Jobs Hub](https://github.com/harshitparihar05/ExamCall)** — Static GK content site + job updates. (React / WordPress)
+  - Demo: _link here_ • Readme: clear setup + screenshots
+- **[GNMStudio Website (WordPress)](https://github.com/harshitparihar05/GNMStudio)** — Agency site I developed (WordPress + custom CSS)
+  - Live demo: _link_ • Highlights: responsive, SEO tuned
+- **[MERN E-commerce App](https://github.com/harshitparihar05/mern-ecommerce)** — Full stack e-commerce with JWT auth, payment integration
+  - Live demo: _link_ • How to run: `npm install && npm run dev`
+
+> 🔧 Tip: For each project, include a short demo GIF or screenshots in that repo’s `README.md`.
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitparihar05&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitparihar05&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Get in touch
+- Email: **theharshitparihar@gmail.com**
+- LinkedIn: [Harshit Singh Parihar](https://www.linkedin.com/in/harshitparihar05/)
+- Portfolio / Website: `https://your-portfolio-or-site.com` (replace with real link)
+
+---
+
+_If you'd like, I can replace the project placeholders above with actual repos from your account and craft 2–3 project READMEs that look recruiter-ready (with GIFs, demo links, badges)._
