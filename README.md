@@ -32,11 +32,14 @@
 
 ---
 **Focus areas**
-- Frontend: React.js, HTML5, CSS3, Tailwind/Bootstrap  
-- Backend: Node.js, Express, REST APIs, JWT auth  
+- Frontend: HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, React.js  
+- Backend: Node.js, Express.js, REST APIs, JWT auth  
 - Databases: MongoDB, MySQL  
-- Tools: Git, Docker (basic), Vercel / Netlify deployments  
-- Other: WordPress sites, SEO, YouTube content creation (ExamCall)
+- Tools: Git, Docker (basic), Vercel / Netlify deployments 
+- Design: Figma
+- Programming Language - Core Java, Python
+- Other: WordPress sites (Custom and with Elementor), SEO
+
 
 ---
 
