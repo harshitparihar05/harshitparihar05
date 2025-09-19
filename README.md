@@ -1,97 +1,73 @@
-<!-- Profile README for Harshit Singh Parihar -->
 <div align="center">
-
-<h1 style="font-weight:700; font-size:2.5em;">Hi 👋, I'm <span style="color:#0e75b6;">Harshit Singh Parihar</span></h1>
-<h3 style="font-weight:400;">Full-Stack Web Developer • MERN • React • WordPress • Technical Trainer</h3>
-
-<a href="mailto:theharshitparihar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-theharshitparihar%40gmail.com-blue?style=for-the-badge" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/harshitparihar05/">
-  <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Singh%20Parihar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/harshitparihar05">
-  <img src="https://img.shields.io/badge/GitHub-harshitparihar05-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="./Harshit_Resume_2025.pdf">
-  <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader" alt="Resume"/>
-</a>
-
-<br/>
-<img src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" alt="coding" width="400"/>
-
+  <h1 align="center">Hi 👋, I'm Harshit Singh Parihar</h1>
+  <p align="center"><b>Full-Stack Web Developer | Technical Trainer | MERN Stack Specialist</b></p>
+  <p align="center">📍 Indore, India • 📧 theharshitparihar@gmail.com</p>
 </div>
+<br>
 
----
-
-### 🧑‍💻 About Me
-I’m a **Full-Stack Web Developer & Technical Trainer** with experience in **MERN stack, ReactJS, and WordPress**.  
-I create responsive web apps, teach coding concepts, and deliver client-focused digital solutions.  
-I love building projects that are **fast, clean, and user-friendly**.
-
----
-
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql,java,git,figma,wordpress,docker&theme=light" />
-</p>
-
----
-
-### 🌟 Featured Projects
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/harshitparihar05/ExamCall">ExamCall</a></h3>
-<p>A Static GK & Government Job updates platform with SEO-friendly content and responsive UI.</p>
-<ul>
-<li>Built with React & WordPress</li>
-<li>Focus on static GK & exam strategy</li>
-</ul>
-</td>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/harshitparihar05/GNMStudio">GNM Studio Website</a></h3>
-<p>Modern WordPress site for a Delhi-NCR-based marketing agency.</p>
-<ul>
-<li>Custom WordPress development</li>
-<li>Optimized for performance & SEO</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/harshitparihar05/mern-ecommerce">MERN E-commerce App</a></h3>
-<p>Full-stack e-commerce application with product management, JWT auth, and payment integration.</p>
-<ul>
-<li>MERN stack</li>
-<li>Responsive design</li>
-</ul>
-</td>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/harshitparihar05/portfolio-react">React Portfolio</a></h3>
-<p>Personal portfolio showcasing skills, projects, and contact info with smooth animations.</p>
-<ul>
-<li>React + Tailwind CSS</li>
-<li>Clean modern UI</li>
-</ul>
-</td>
-</tr>
-</table>
-
----
-
-### 📫 Let’s Connect
 <div align="center">
-💌 **Email:** <a href="mailto:theharshitparihar@gmail.com">theharshitparihar@gmail.com</a>  
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/harshitparihar/">Harshit Singh Parihar</a>  
-🌐 **Portfolio:** <a href="#">your-portfolio-link.com</a>  
+  <img src="https://komarev.com/ghpvc/?username=harshitparihar05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <p align="center">Dynamic and results-driven Full Stack Web Developer with over 6 years of experience in the <b>MERN stack</b>, <b>WordPress</b>, and <b>ReactJS</b>[cite: 3]. Proven ability to build responsive web applications, teach complex technical concepts, and deliver client-focused digital solutions[cite: 4]. I specialize in both frontend and backend development, API integration, and collaborative problem-solving[cite: 5].</p>
 </div>
+<br>
 
 ---
 
+### 💻 My Core Technical Skills
+
 <div align="center">
-⭐️ “Code is like humor. When you have to explain it, it’s bad.”  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+</div>
+<br>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitparihar05&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitparihar05&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</div>
+<br>
+
+---
+
+### 📞 Contact Me
+
+<div align="center">
+  <a href="mailto:theharshitparihar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/917067087270" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </div>
