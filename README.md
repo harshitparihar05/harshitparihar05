@@ -25,9 +25,7 @@
 <a href="./Harshit_Resume%2009-2025.pdf">
   <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=file" alt="resume" />
 </a>
-
 <br/><br/>
-
 </div>
 
 ---
@@ -40,7 +38,7 @@
 - Programming Language - Core Java, Python
 - Other: WordPress sites (Custom and with Elementor), SEO
 
-
+<br><br>
 ---
 
 # Tech & Tools
@@ -50,9 +48,7 @@
 
 ---
 
-# Skills (visual — no JS)
-> Percentage bars are shown with badge visuals (clean, README-safe):
-
+# Skills
 <p align="center">
   <img src="https://img.shields.io/badge/HTML/CSS-95%25-ff6f00?style=for-the-badge&logo=html5" alt="HTML/CSS" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript" alt="JavaScript" />
